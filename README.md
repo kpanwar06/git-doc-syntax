@@ -1,2 +1,3 @@
-# git-doc-syntax
-To learn about git hub documentation
+# A first-level heading
+## A second-level heading
+### A third-level heading
